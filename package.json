@@ -1,0 +1,20 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@playlyfe/gql": "^2.6.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^14.2.1",
+    "graphql-yoga": "^1.17.4",
+    "jsonwebtoken": "^8.5.1",
+    "only": "0.0.2",
+    "prisma-client-lib": "^1.30.2"
+  }
+}
